@@ -102,6 +102,6 @@ Para poder utilizar Huqariq debe descargar or clonar el repositorio.
 
 [Android > 4.0] Probar en Android 4 o superior ya que algunas APIs ya no funcionan en versiones anteriores.
 
-# Limitaciones
+
 
 
