@@ -104,7 +104,4 @@ Para poder utilizar Huqariq debe descargar or clonar el repositorio.
 
 # Limitaciones
 
-Estamos felices de poder ayudarlo:
-
-rodolfojoel.zevallos01@estudiant.upf.edu, camacho.l@pucp.pe, Grupo de IA-UNAC
 
